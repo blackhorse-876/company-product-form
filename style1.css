@@ -1,0 +1,22 @@
+body{
+	background-image:url('5.jpeg'),url('field1.jpeg'),url('6.jpeg');
+	background-repeat:no-repeat;
+	background-size:2000px 1000px,2000px 1000px;
+	background-position:top,bottom,center;
+}
+
+	h1{color:white;
+	font-size:80px;
+	text-align:center;}
+h2
+{text-align:center;}
+
+legend{ font-size:35px;text-align:center;color:red}
+
+legend1{font-size:25px;color:white;background-color:blue;}
+
+label{font-size:20px;background-color:pink;}
+
+div{text-align:center;color:}
+
+p2{font-size:30px;color:gold; }
